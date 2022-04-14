@@ -1,4 +1,4 @@
-
+# I can't answer the whole question by myself  I write it with jadi's movie help
 import csv
 all_words={}
 section=["esm","famil","keshvar","rang","ashia","ghaza"]

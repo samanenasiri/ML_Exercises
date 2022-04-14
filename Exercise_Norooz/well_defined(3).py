@@ -1,4 +1,5 @@
-
+#my solution:
+# It doesnt answer for "????0" or "????1"
 num='?0'
 def is_well_defined(num):
     
@@ -27,7 +28,7 @@ print(is_well_defined(num))
 
 
 
-
+#solution with my friends help:
 
 num='1?1'
 flag=[]
