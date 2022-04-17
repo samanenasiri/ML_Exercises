@@ -48,7 +48,7 @@ def is_well_define(num):
                 is_well_define(temp2) 
 
 
-    if len(flag)>0:
+    if len(flag)>0: # why need this?
         return True
     else:
         return False
